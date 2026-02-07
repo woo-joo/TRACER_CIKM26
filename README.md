@@ -2,7 +2,7 @@
 This repository provides the source code of paper, "TRACER: Balancing Stability-Plasticity-Cognitivity Trilemma for LLM Enhanced Continual Recommendation."
 
 ## 1. Overview
-<img src="figures/tracer.png" alt="Sample Figure" width="50%">
+<img src="figures/tracer.png" alt="Sample Figure" width="100%">
 
 ## 2. Environment
 ```
