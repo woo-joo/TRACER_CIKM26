@@ -19,8 +19,8 @@ We provide pre-computed semantic profiles and representations via [Zenodo](https
 
 ### 4.1. Directory Structure
 To ensure the code run correctly, organize the downloaded assets as follows:
-```text
-tracer/
+```
+TRACER/
 ├── sem_reprs/
 │   ├── amazon_home.pt
 │   ├── amazon_cds.pt
